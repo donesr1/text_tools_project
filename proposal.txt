@@ -1,0 +1,1 @@
+Project: Politeness markers in movie dialogue (Cornell Movie-Dialogs Corpus). Plan: POS-tag the corpus, then use awk/grep/sort/uniq to compare imperatives and politeness markers across genres.
